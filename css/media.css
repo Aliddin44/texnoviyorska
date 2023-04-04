@@ -1,0 +1,287 @@
+@media(max-width:1396px){
+.container{
+width: 95%;
+}
+.header__bottom a{
+    padding: 0;
+}
+
+.banner__img.child {
+    height: 186px;
+}
+.departman{
+    width: 100%;
+    overflow: hidden;
+}
+.departman .img img,
+.departman .img{
+    width: 100%;
+    height: 100%;
+}
+.departman .row{
+    height: 447px;
+}
+.order__img{
+    width: 100%;
+}
+.order__img img{
+    width: 100%;
+}
+.order .col-lg-8{
+    margin-left: 50px;
+}
+}
+@media(max-width:1024px){
+    .col-md-1 {
+        flex-basis: 8.33333%;
+        max-width: 8.33333%;
+        padding: 10px;
+    }
+    
+    .col-md-2 {
+        flex-basis: 16.66667%;
+        max-width: 16.66667%;
+        padding: 10px;
+        height: 100%;
+    }
+    
+    .col-md-3 {
+        flex-basis: 25%;
+        max-width: 25%;
+        padding: 10px;
+    }
+    
+    .col-md-4 {
+        flex-basis: 33.33333%;
+        max-width: 33.33333%;
+        padding: 10px;
+    }
+    
+    .col-md-5 {
+        flex-basis: 41.66667%;
+        max-width: 41.66667%;
+        padding: 10px;
+    }
+    
+    .col-md-6 {
+        flex-basis: 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+    .col-md-7 {
+        flex-basis: 58.33333%;
+        max-width: 58.33333%;
+        padding: 10px;
+    }
+    
+    .col-md-8 {
+        flex-basis: 66.66667%;
+        max-width: 66.66667%;
+        padding: 10px;
+    }
+    
+    .col-md-9 {
+        flex-basis: 75%;
+        max-width: 75%;
+        padding: 10px;
+    }
+    
+    .col-md-10 {
+        flex-basis: 83.33333%;
+        max-width: 83.33333%;
+        padding: 10px;
+    }
+    
+    .col-md-11 {
+        flex-basis: 91.66667%;
+        max-width: 91.66667%;
+        padding: 10px;
+    }
+    
+    .col-md-12 {
+        flex-basis: 100%;
+        max-width: 100%;
+        padding: 10px;
+    }
+    .service .row{
+flex-wrap: wrap;    }
+    .dn{
+        display: none;
+    }
+    .brands .left{
+        left: -5px;
+    }
+    .brands .right{
+        right: -5px;
+    }
+    .row{
+        flex-wrap: wrap;
+    }
+    .order .mt{
+        margin-top: 25px;
+    }
+    .contact{
+        display: none;
+    }
+    .header__bottom .bottom__menu a {
+        font-size: 12px;
+    }
+    .header__top a{
+        padding-left: 0;
+    }
+}
+@media(max-width:768px){
+    .header__bottom,
+    .header__top .icons,
+    .header__top .menu{
+        display: none;
+    }
+    .banner__item {
+        grid-template-rows: 300px;
+    }
+    .banner__img.child {
+        height: 146px;
+    }
+    .order__des{
+        width: 90%;
+    }
+    .departman .row{
+        height: 350px;
+    }
+    .dnP{
+        display: none;
+    }
+    .brands .row{
+        justify-content: center;
+    }
+    .brands .left{
+        left: 35px;
+    }
+    .brands .right{
+        right: 35px;
+    }
+    .col-mx-1 {
+        flex-basis: 8.33333%;
+        max-width: 8.33333%;
+        padding: 10px;
+    }
+    
+    .col-mx-2 {
+        flex-basis: 16.66667%;
+        max-width: 16.66667%;
+        padding: 10px;
+        height: 100%;
+    }
+    
+    .col-mx-3 {
+        flex-basis: 25%;
+        max-width: 25%;
+        padding: 10px;
+    }
+    
+    .col-mx-4 {
+        flex-basis: 33.33333%;
+        max-width: 33.33333%;
+        padding: 10px;
+    }
+    
+    .col-mx-5 {
+        flex-basis: 41.66667%;
+        max-width: 41.66667%;
+        padding: 10px;
+    }
+    
+    .col-mx-6 {
+        flex-basis: 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+    
+    .col-mx-7 {
+        flex-basis: 58.33333%;
+        max-width: 58.33333%;
+        padding: 10px;
+    }
+    
+    .col-mx-8 {
+        flex-basis: 66.66667%;
+        max-width: 66.66667%;
+        padding: 10px;
+    }
+    
+    .col-mx-9 {
+        flex-basis: 75%;
+        max-width: 75%;
+        padding: 10px;
+    }
+    
+    .col-mx-10 {
+        flex-basis: 83.33333%;
+        max-width: 83.33333%;
+        padding: 10px;
+    }
+    
+    .col-mx-11 {
+        flex-basis: 91.66667%;
+        max-width: 91.66667%;
+        padding: 10px;
+    }
+    
+    .col-mx-12 {
+        flex-basis: 100%;
+        max-width: 100%;
+        padding: 10px;
+    }
+    .footer__contact{
+        display: none;
+    }
+    .burger__menu{
+        display: block;
+    }
+}
+@media (max-width:600px) {
+    .LmDn{
+        display: none;
+    }
+    .col-Lmx-12 {
+        flex-basis: 100%;
+        max-width: 100%;
+        padding: 10px;
+    }
+    .slider__banner .row{
+        width: 95%;
+        margin: auto;
+    }
+    .slider__carusel {
+        width: 70%;
+    }
+}
+@media(max-width:450px){
+    .banner__item{
+        grid-template-columns: auto;
+    }
+   
+    .col-ms-12 {
+        flex-basis: 100%;
+        max-width: 100%;
+        padding: 10px;
+    }
+    .msN{
+        display: none;
+    }
+    .departman__title,
+    .title__box .title {
+        font-size: 35px;
+    }
+    .brands .row{
+        width: 100%;
+    }
+    .brands .right {
+        right: 10px;
+    }
+    .brands .left {
+        left: 10px;
+    }
+
+}
